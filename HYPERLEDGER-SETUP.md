@@ -82,7 +82,7 @@ sudo chmod +x /usr/local/bin/docker-compose
 ```
 Restart computer
 ```sh
-sudo eboot now
+sudo reboot now
 ```
 
 Update the system again
